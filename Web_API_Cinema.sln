@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_API_Cinema", "Web_API_Cinema\Web_API_Cinema.csproj", "{C903C221-AAC9-49E7-BB09-4815D48A8EBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataWork", "DataWork\DataWork.csproj", "{E3598269-0F4F-4611-B781-9CAF9F7C5F6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C903C221-AAC9-49E7-BB09-4815D48A8EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C903C221-AAC9-49E7-BB09-4815D48A8EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C903C221-AAC9-49E7-BB09-4815D48A8EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C903C221-AAC9-49E7-BB09-4815D48A8EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3598269-0F4F-4611-B781-9CAF9F7C5F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3598269-0F4F-4611-B781-9CAF9F7C5F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3598269-0F4F-4611-B781-9CAF9F7C5F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3598269-0F4F-4611-B781-9CAF9F7C5F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16301037-EAD8-4D20-A47C-6A6A050E5D1F}
+	EndGlobalSection
+EndGlobal
